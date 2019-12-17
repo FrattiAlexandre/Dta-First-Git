@@ -7,3 +7,7 @@ main {
 footer {
     text-align: center;
 }
+h2 {
+    background-color: black;
+    color: brown;
+}
